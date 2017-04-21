@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+#guapa{
+	position: absolute;
+	display: inline;
+	width: 400px;
+	height: 400px;
+}
+#texto{
+	background-color: pink;
+	position: absolute;
+	display: inline;
+	top: 100px;
+	left: 450px;
+	width: 500px;
+}
+
